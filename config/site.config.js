@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
-  title: "(*ﾟ▽ﾟ)ﾉ",
+  title: "٩(๑^o^๑)۶",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/SS',
@@ -39,10 +39,9 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: [
-    "/Drama",
-    ],
-
+  protectedRoutes: 
+    '/Drama',
+    
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: "",
