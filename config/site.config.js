@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
-  title: "٩(๑^o^๑)۶",
+  title: "低調用(๑•﹏•)",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/SS',
