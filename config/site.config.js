@@ -43,8 +43,8 @@ module.exports = {
     ['/Drama',
      '/VTuber',
      '/Image',
-     '/Comic/gogootome',
-     '/test',
+     '/Comic/moeshare',
+     '/GG',
     ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
