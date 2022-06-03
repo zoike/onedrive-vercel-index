@@ -45,6 +45,7 @@ module.exports = {
      '/Image',
      '/Comic/moeshare',
      '/GG',
+     '/t',
     ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
